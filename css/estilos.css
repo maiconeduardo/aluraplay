@@ -29,6 +29,9 @@ body {
     height: 80px;
     width: 100%;
     padding: 0 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .logo__item {
